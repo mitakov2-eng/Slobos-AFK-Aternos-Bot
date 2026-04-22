@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "voidersmpNET.aternos.me:56860",
+    "ip": "voidersmpNET.aternos.me",
     "port": 56860,
     "version": "",
     "try-creative": false
